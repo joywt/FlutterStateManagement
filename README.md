@@ -3,6 +3,4 @@ There is a constant theme in reactive programming frameworks - "State management
 
 StatefulWidget 中的基本状态管理：
 
-[StatefulWidget 状态管理]: /stateful_widget/README.md
-
-[]
+[StatefulWidget 状态管理]: (/stateful_widget/README.md)
